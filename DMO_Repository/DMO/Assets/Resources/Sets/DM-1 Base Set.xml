@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<cardset setname="Base Set"
+	 releasedate="2004-03-01"
+	 card_count="120">
+	<card name="Aqua Sniper"
+		civilization="Water"
+		type="Creature"
+		race="Liquid People"
+		cost="8"
+		power="5000"
+		rarity="S"
+		collector_number="S3"
+		artist="Seki">
+		<rules_text>When you put this creature into the battle zone, choose up to 2 creatures in the battle zone and return them to their owners' hands.</rules_text>
+		<flavor_text>Water surrounds, enfolds, buoys...and attacks.</flavor_text>
+	</card>
+
+	<card name="Astrocomet Dragon"
+		civilization="Fire"
+		type="Creature"
+		race="Armored Dragon"
+		cost="7"
+		power="6000"
+		rarity="S"
+		collector_number="S7"
+		artist="Yusaku Nakaaki">
+		<rules_text>Power attacker +4000 (While attacking, this creature gets +4000 power.)
+		
+Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text>Even the smallest weapon attached to it has enough firepower to lay waste to an entire nation.</flavor_text>
+	</card>
+
+	<card name="Deathblade Beetle"
+		civilization="Nature"
+		type="Creature"
+		race="Giant Insect"
+		cost="5"
+		power="3000"
+		rarity="S"
+		collector_number="S9"
+		artist="Dustmoss">
+		<rules_text>Power attacker +4000 (While attacking, this creature gets +4000 power.)
+		
+Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text>It devours all.</flavor_text>
+	</card>
+
+	<card name="Deathliger, Lion of Chaos"
+		civilization="Darkness"
+		type="Creature"
+		race="Demon Command"
+		cost="7"
+		power="9000"
+		rarity="S"
+		collector_number="S5"
+		artist="Atsushi Kawasaki">
+		<rules_text>Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text>The world is deafened by the roar of the deathliger.</flavor_text>
+	</card>
+
+	<card name="Hanusa, Radiance Elemental"
+		civilization="Light"
+		type="Creature"
+		race="Angel Command"
+		cost="7"
+		power="9500"
+		rarity="S"
+		collector_number="S1"
+		artist="Masaki Hirooka">
+		<rules_text>Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text>The sky was scorched by Dragons' fire, and the earth gouged by elementals' rays. The battle raged for seven nights and seven days.</flavor_text>
+	</card>
+
+	<card name="King Depthcon"
+		civilization="Water"
+		type="Creature"
+		race="Leviathan"
+		cost="7"
+		power="6000"
+		rarity="S"
+		collector_number="S4"
+		artist="Ryoya Yuki">
+		<rules_text>Double breaker (This creature breaks 2 shields.)
+		
+This creature can't be blocked.</rules_text>
+		<flavor_text>Leviathans are just like storms. All you can do is wait until they pass.</flavor_text>
+	</card>
+
+	<card name="Roaring Great-Horn"
+		civilization="Nature"
+		type="Creature"
+		race="Horned Beast"
+		cost="7"
+		power="8000"
+		rarity="S"
+		collector_number="S10"
+		artist="Ittoku">
+		<rules_text>Power attacker +2000 (While attacking, this creature gets +2000 power.)
+		
+Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text>With a mighty, earthshaking roar, the King of Beasts arose.</flavor_text>
+	</card>
+
+	<card name="Scarlet Skyterror"
+		civilization="Fire"
+		type="Creature"
+		race="Armored Wyvern"
+		cost="8"
+		power="3000"
+		rarity="S"
+		collector_number="S8"
+		artist="Tomofumi Ogasawara">
+		<rules_text>When you put this creature into the battle zone, destroy all creatures that have "blocker."</rules_text>
+		<flavor_text>The forces of Fire will never relent.</flavor_text>
+	</card>
+
+	<card name="Urth, Purifying Elemental"
+		civilization="Light"
+		type="Creature"
+		race="Angel Command"
+		cost="6"
+		power="6000"
+		rarity="S"
+		collector_number="S2"
+		artist="Akifumi Yamamoto">
+		<rules_text>Double breaker (This creature breaks 2 shields.)
+		At the end of each of your turns, you may untap this creature.</rules_text>
+		<flavor_text>It is said the destruction of the Ancient Empire was caused by the descent of the elementals.</flavor_text>
+	</card>
+
+	<card name="Zagaan, Knight of Darkness"
+		civilization="Darkness"
+		type="Creature"
+		race="Demon Command"
+		cost="6"
+		power="7000"
+		rarity="S"
+		collector_number="S6"
+		artist="Tsutomu Kawade">
+		<rules_text>Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text>"If I were to send him to the field, he would overwhelm the enemy in an instant. Where is the fun in that?" -Ballom, Master of Death</flavor_text>
+	</card>
+
+	<card name="Gran Gure, Space Guardian"
+		civilization="Light"
+		type="Creature"
+		race="Guardian"
+		cost="6"
+		power="9000"
+		rarity="V"
+		collector_number="5"
+		artist="D-Suzuki">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.</rules_text>
+		<flavor_text>Those who defile the Sky Castle are doomed, for they shall know the wrath of the Guardians.</flavor_text>
+	</card>
+
+	<card name="Rayla, Truth Enforcer"
+		civilization="Light"
+		type="Creature"
+		race="Berserker"
+		cost="6"
+		power="3000"
+		rarity="V"
+		collector_number="15"
+		artist="Dai">
+		<rules_text>When you put this creature into the battle zone, search your deck. You may take a spell from your deck, show that spell to your opponent, and put it into your hand. Then shuffle your deck.</rules_text>
+		<flavor_text>The Enforcers deliver the oracles' words, which bear the power of truth.</flavor_text>
+	</card>
+
+	<card name="King Ripped-Hide"
+		civilization="Water"
+		type="Creature"
+		race="Leviathan"
+		cost="7"
+		power="5000"
+		rarity="V"
+		collector_number="34"
+		artist="Miho Midorikawa">
+		<rules_text>When you put this creature into the battle zone, draw up to 2 cards.</rules_text>
+		<flavor_text>Long ago, the Cyber Lords built a city on his back.</flavor_text>
+	</card>
+
+	<card name="Seamine"
+		civilization="Water"
+		type="Creature"
+		race="Fish"
+		cost="6"
+		power="4000"
+		rarity="V"
+		collector_number="39"
+		artist="Tomofumi Ogasawara">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)</rules_text>
+		<flavor_text>If the last thing in your life you want to see is something beautiful, attack an underwater city.</flavor_text>
+	</card>
+
+	<card name="Gigargon"
+		civilization="Darkness"
+		type="Creature"
+		race="Chimera"
+		cost="8"
+		power="3000"
+		rarity="V"
+		collector_number="57"
+		artist="Tsutomu Kawade">
+		<rules_text>When you put this creature into the battle zone, return up to 2 creatures from your graveyard to your hand.</rules_text>
+		<flavor_text>There is no rest in the Dark Realm, even after death.</flavor_text>
+	</card>
+
+	<card name="Vampire Silphy"
+		civilization="Darkness"
+		type="Creature"
+		race="Dark Lord"
+		cost="8"
+		power="4000"
+		rarity="V"
+		collector_number="64"
+		artist="Masaki Hirooka">
+		<rules_text>When you put this creature into the battle zone, destroy all creatures that have power 3000 or less.</rules_text>
+		<flavor_text>Dark Lords have no mercy for the weak.</flavor_text>
+	</card>
+
+	<card name="Bolshack Dragon"
+		civilization="Fire"
+		type="Creature"
+		race="Armored Dragon"
+		cost="6"
+		power="6000"
+		rarity="V"
+		collector_number="69"
+		artist="Ryoya Yuki">
+		<rules_text>While attacking, this creature gets +1000 power for each fire card in your graveyard.
+		
+Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text>The last city that offended it is now a ruin.</flavor_text>
+	</card>
+
+	<card name="Gatling Skyterror"
+		civilization="Fire"
+		type="Creature"
+		race="Armored Wyvern"
+		cost="7"
+		power="7000"
+		rarity="V"
+		collector_number="79"
+		artist="Hisashi Momose">
+		<rules_text>This creature can attack untapped creatures.
+		
+Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text>Part chopper, part chomper.</flavor_text>
+	</card>
+
+	<card name="Thorny Mandra"
+		civilization="Nature"
+		type="Creature"
+		race="Tree Folk"
+		cost="5"
+		power="4000"
+		rarity="V"
+		collector_number="107"
+		artist="Atsushi Kawasaki">
+		<rules_text>When you put this creature into the battle zone, you may put 1 creature from your graveyard into your mana zone.</rules_text>
+		<flavor_text>A beautiful flower, an alluring scent...and deadly thorns.</flavor_text>
+	</card>
+
+	<card name="Tower Shell"
+		civilization="Nature"
+		type="Creature"
+		race="Colony Beetle"
+		cost="6"
+		power="5000"
+		rarity="V"
+		collector_number="108"
+		artist="Atsushi Kawasaki">
+		<rules_text>This creature can't be blocked by any creature that has power 4000 or less.</rules_text>
+		<flavor_text>Not many things want to get in its way.</flavor_text>
+	</card>
+
+	<card name="Chilias, the Oracle"
+		civilization="Light"
+		type="Creature"
+		race="Light Bringer"
+		cost="4"
+		power="2500"
+		rarity="R"
+		collector_number="1"
+		artist="Akira Hamada">
+		<rules_text>When this creature would be destroyed, put it into your hand instead.</rules_text>
+		<flavor_text>The shining towers in the sky exist to protect the oracles.</flavor_text>
+	</card>
+
+	<card name="Dia Nork, Moonlight Guardian"
+		civilization="Light"
+		type="Creature"
+		race="Guardian"
+		cost="4"
+		power="5000"
+		rarity="R"
+		collector_number="2"
+		artist="Tomofumi Ogasawara">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.</rules_text>
+		<flavor_text>Flying is the greatest taboo of any race that has encountered the Guardians.</flavor_text>
+	</card>
+
+	<card name="Holy Awe"
+		civilization="Light"
+		type="Spell"
+		race=""
+		cost="6"
+		power="0"
+		rarity="R"
+		collector_number="6"
+		artist="Naoki Saito">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Tap all your opponent's creatures in the battle zone.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Lah, Purification Enforcer"
+		civilization="Light"
+		type="Creature"
+		race="Berserker"
+		cost="5"
+		power="5500"
+		rarity="R"
+		collector_number="10"
+		artist="Hideaki Takamura">
+		<rules_text></rules_text>
+		<flavor_text>Those who have seen this Enforcer believe that eclipses are omens of disaster.</flavor_text>
+	</card>
+
+	<card name="Laser Wing"
+		civilization="Light"
+		type="Spell"
+		race=""
+		cost="5"
+		power="0"
+		rarity="R"
+		collector_number="11"
+		artist="Gyokan">
+		<rules_text>Choose up to 2 of your creatures in the battle zone. They can't be blocked this turn.</rules_text>
+		<flavor_text>This is light speed.</flavor_text>
+	</card>
+
+	<card name="Szubs Kin, Twilight Guardian"
+		civilization="Light"
+		type="Creature"
+		race="Guardian"
+		cost="5"
+		power="6000"
+		rarity="R"
+		collector_number="21"
+		artist="Ittoku">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.</rules_text>
+		<flavor_text>Those who dwell in the sky towers eradicate all intruders.</flavor_text>
+	</card>
+
+	<card name="Aqua Knight"
+		civilization="Water"
+		type="Creature"
+		race="Liquid People"
+		cost="5"
+		power="4000"
+		rarity="R"
+		collector_number="24"
+		artist="D-Suzuki">
+		<rules_text>When this creature would be destroyed, return it to your hand instead.</rules_text>
+		<flavor_text>Like a whirlpool, it never seems to end.</flavor_text>
+	</card>
+
+	<card name="Crystal Memory"
+		civilization="Water"
+		type="Spell"
+		race=""
+		cost="4"
+		power="0"
+		rarity="R"
+		collector_number="29"
+		artist="Ryoya Yuki">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Search your deck. You may take a card from your deck and put it into your hand. Then shuffle your deck.</rules_text>
+		<flavor_text> </flavor_text>
+	</card>
+
+	<card name="Saucer-Head Shark"
+		civilization="Water"
+		type="Creature"
+		race="Gel Fish"
+		cost="5"
+		power="3000"
+		rarity="R"
+		collector_number="38"
+		artist="Naoki Saito">
+		<rules_text>When you put this creature into the battle zone, return each creature in the battle zone that has power 2000 or less to its owner's hand.</rules_text>
+		<flavor_text>"Isn't it cool? The heads can be combined." -Tropico</flavor_text>
+	</card>
+
+	<card name="Teleportation"
+		civilization="Water"
+		type="Spell"
+		race=""
+		cost="5"
+		power="0"
+		rarity="R"
+		collector_number="41"
+		artist="Akifumi Yamamoto">
+		<rules_text>Choose up to 2 creatures in the battle zone and return them to their owners' hands.</rules_text>
+		<flavor_text>"Start all over from your previous life!" -Crystal Lancer</flavor_text>
+	</card>
+
+	<card name="Tropico"
+		civilization="Water"
+		type="Creature"
+		race="Cyber Lord"
+		cost="5"
+		power="3000"
+		rarity="R"
+		collector_number="42"
+		artist="Jason">
+		<rules_text>This creature can't be blocked while you have at least 2 other creatures in the battle zone.</rules_text>
+		<flavor_text>"I will lead you into battle."</flavor_text>
+	</card>
+
+	<card name="Unicorn Fish"
+		civilization="Water"
+		type="Creature"
+		race="Fish"
+		cost="4"
+		power="1000"
+		rarity="R"
+		collector_number="43"
+		artist="Hisanobu Kometani">
+		<rules_text>When you put this creature into the battle zone, you may choose 1 creature in the battle zone and return it to its owner's hand.</rules_text>
+		<flavor_text>It attacks anything that enters its territory, even Leviathans.</flavor_text>
+	</card>
+
+	<card name="Creeping Plague"
+		civilization="Darkness"
+		type="Spell"
+		race=""
+		cost="1"
+		power="0"
+		rarity="R"
+		collector_number="49"
+		artist="Ryoya Yuki">
+		<rules_text>Whenever any of your creatures becomes blocked this turn, it gets "slayer" until the end of the turn. (When a creature that has "slayer" loses a battle, destroy the other creature.)</rules_text>
+		<flavor_text>Witness the power of the Dark!</flavor_text>
+	</card>
+
+	<card name="Dark Clown"
+		civilization="Darkness"
+		type="Creature"
+		race="Brain Jacker"
+		cost="4"
+		power="6000"
+		rarity="R"
+		collector_number="50"
+		artist="Jason">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.
+		
+When this creature wins a battle, destroy it.</rules_text>
+		<flavor_text> </flavor_text>
+	</card>
+
+	<card name="Gigaberos"
+		civilization="Darkness"
+		type="Creature"
+		race="Chimera"
+		cost="5"
+		power="8000"
+		rarity="R"
+		collector_number="55"
+		artist="Katsuya">
+		<rules_text>When you put this creature into the battle zone, destroy 2 of your other creatures or destroy this creature.
+		
+Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Gigagiele"
+		civilization="Darkness"
+		type="Creature"
+		race="Chimera"
+		cost="5"
+		power="3000"
+		rarity="R"
+		collector_number="56"
+		artist="Hisashi Momose">
+		<rules_text>Slayer (When this creature loses a battle, destroy the other creature.)</rules_text>
+		<flavor_text>By assembling parts of different magical beasts, the Dark Lords created a nightmare.</flavor_text>
+	</card>
+
+	<card name="Night Master, Shadow of Decay"
+		civilization="Darkness"
+		type="Creature"
+		race="Ghost"
+		cost="6"
+		power="3000"
+		rarity="R"
+		collector_number="59"
+		artist="Hideaki Takamura">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)</rules_text>
+		<flavor_text>Don't turn around. You wouldn't want to see what's behind you.</flavor_text>
+	</card>
+
+	<card name="Terror Pit"
+		civilization="Darkness"
+		type="Spell"
+		race=""
+		cost="6"
+		power="0"
+		rarity="R"
+		collector_number="63"
+		artist="Yusaku Nakaaki">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Destroy 1 of your opponent's creatures.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Chaos Strike"
+		civilization="Fire"
+		type="Spell"
+		race=""
+		cost="2"
+		power="0"
+		rarity="R"
+		collector_number="72"
+		artist="Soushi Hirose">
+		<rules_text>Choose 1 of your opponent's untapped creatures in the battle zone. Your creatures can attack it this turn as though it were tapped.</rules_text>
+		<flavor_text>"You won't escape me!"</flavor_text>
+	</card>
+
+	<card name="Draglide"
+		civilization="Fire"
+		type="Creature"
+		race="Armored Wyvern"
+		cost="5"
+		power="5000"
+		rarity="R"
+		collector_number="75"
+		artist="Ittoku">
+		<rules_text>This creature attacks each turn if able.</rules_text>
+		<flavor_text>Draglides grow with their mounts. Their bond is their weapon.</flavor_text>
+	</card>
+
+	<card name="Explosive Fighter Ucarn"
+		civilization="Fire"
+		type="Creature"
+		race="Dragonoid"
+		cost="5"
+		power="9000"
+		rarity="R"
+		collector_number="76"
+		artist="Hisanobu Kometani">
+		<rules_text>When you put this creature into the battle zone, put 2 cards from your mana zone into your graveyard.
+		
+Double breaker (This creature breaks 2 shields.)</rules_text>
+		<flavor_text>Dragonoid fighters never retreat. They believe that a heroic fighter will become a Dragon in his next life.</flavor_text>
+	</card>
+
+	<card name="Magma Gazer"
+		civilization="Fire"
+		type="Spell"
+		race=""
+		cost="3"
+		power="0"
+		rarity="R"
+		collector_number="81"
+		artist="Masaki Hirooka">
+		<rules_text>One of your creatures gets "power attacker +4000" and "double breaker" until the end of the turn. (A creature that has "power attacker +4000" and "double breaker" gets +4000 power while attacking and breaks 2 shields.)</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Nomad Hero Gigio"
+		civilization="Fire"
+		type="Creature"
+		race="Machine Eater"
+		cost="5"
+		power="3000"
+		rarity="R"
+		collector_number="83"
+		artist="Eiji Kaneda">
+		<rules_text>This creature can attack untapped creatures.</rules_text>
+		<flavor_text>"Time to move on. So many unexplored worlds; so much trash to find!" -Nomad Hero Gigio</flavor_text>
+	</card>
+
+	<card name="Rothus, the Traveler"
+		civilization="Fire"
+		type="Creature"
+		race="Armorloid"
+		cost="4"
+		power="4000"
+		rarity="R"
+		collector_number="85"
+		artist="Seki">
+		<rules_text>When you put this creature into the battle zone, destroy 1 of your creatures. Then your opponent chooses 1 of his creatures and destroys it.</rules_text>
+		<flavor_text>"Though battered and scarred, I march on through wars, storms, and strife. I march on."</flavor_text>
+	</card>
+
+	<card name="Aura Blast"
+		civilization="Nature"
+		type="Spell"
+		race=""
+		cost="4"
+		power="0"
+		rarity="R"
+		collector_number="89"
+		artist="Nottsuo">
+		<rules_text>Each of your creatures in the battle zone gets "power attacker +2000" until the end of the turn. (While attacking, a creature that has "power attacker +2000" gets +2000 power.)</rules_text>
+		<flavor_text>Hear the roar of the mighty Earth!</flavor_text>
+	</card>
+
+	<card name="Natural Snare"
+		civilization="Nature"
+		type="Spell"
+		race=""
+		cost="6"
+		power="0"
+		rarity="R"
+		collector_number="99"
+		artist="Sansyu">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Choose 1 of your opponent's creatures in the battle zone and put it into his mana zone.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Red-Eye Scorpion"
+		civilization="Nature"
+		type="Creature"
+		race="Giant Insect"
+		cost="5"
+		power="4000"
+		rarity="R"
+		collector_number="103"
+		artist="Kou1">
+		<rules_text>When this creature would be destroyed, put it into your mana zone instead.</rules_text>
+		<flavor_text>Never start a fire in the depths of a forest. Enraged red-eye scorpions will come after you.</flavor_text>
+	</card>
+
+	<card name="Stampeding Longhorn"
+		civilization="Nature"
+		type="Creature"
+		race="Horned Beast"
+		cost="5"
+		power="4000"
+		rarity="R"
+		collector_number="104"
+		artist="Norikatsu Miyoshi">
+		<rules_text>This creature can't be blocked by any creature that has power 3000 or less.</rules_text>
+		<flavor_text>A stampeding longhorn leaves nothing but dust in its wake.</flavor_text>
+	</card>
+
+	<card name="Storm Shell"
+		civilization="Nature"
+		type="Creature"
+		race="Colony Beetle"
+		cost="7"
+		power="2000"
+		rarity="R"
+		collector_number="106"
+		artist="Sansyu">
+		<rules_text>When you put this creature into the battle zone, your opponent chooses 1 of his creatures in the battle zone and puts it into his mana zone.</rules_text>
+		<flavor_text>A Colony Beetle's spawning is a virtual nightmare. It covers the earth with a hail of its bullet-like eggs.</flavor_text>
+	</card>
+
+	<card name="Tri-horn Shepherd"
+		civilization="Nature"
+		type="Creature"
+		race="Horned Beast"
+		cost="5"
+		power="5000"
+		rarity="R"
+		collector_number="109"
+		artist="Daisuke Izuka">
+		<rules_text></rules_text>
+		<flavor_text>Sometimes weeks pass before it realizes it has a gored enemy stuck to its horns.</flavor_text>
+	</card>
+
+	<card name="Frei, Vizier of Air"
+		civilization="Light"
+		type="Creature"
+		race="Initiate"
+		cost="4"
+		power="3000"
+		rarity="U"
+		collector_number="4"
+		artist="Yusaku Nakaaki">
+		<rules_text>At the end of each of your turns, you may untap this creature.</rules_text>
+		<flavor_text>"Vizier of Air, arise. Your fingers are sacred swords." -Hanusa, Radiance Elemental</flavor_text>
+	</card>
+
+	<card name="Iocant, the Oracle"
+		civilization="Light"
+		type="Creature"
+		race="Light Bringer"
+		cost="2"
+		power="2000"
+		rarity="U"
+		collector_number="8"
+		artist="Naoki Saito">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+While you have at least 1 Angel Command in the battle zone, this creature gets +2000 power.
+		
+This creature can't attack players.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Lok, Vizier of Hunting"
+		civilization="Light"
+		type="Creature"
+		race="Initiate"
+		cost="4"
+		power="4000"
+		rarity="U"
+		collector_number="12"
+		artist="Hisanobu Kometani">
+		<rules_text></rules_text>
+		<flavor_text>"Vizier of Hunting, arise. Your words are arrows of light." -Hanusa, Radiance Elemental</flavor_text>
+	</card>
+
+	<card name="Moonlight Flash"
+		civilization="Light"
+		type="Spell"
+		race=""
+		cost="4"
+		power="0"
+		rarity="U"
+		collector_number="14"
+		artist="Hisanobu Kometani">
+		<rules_text>Choose up to 2 of your opponent's creatures in the battle zone and tap them.</rules_text>
+		<flavor_text>Cower before the purity of the Angel Commands!</flavor_text>
+	</card>
+
+	<card name="Ruby Grass"
+		civilization="Light"
+		type="Creature"
+		race="StarLight Tree"
+		cost="3"
+		power="3000"
+		rarity="U"
+		collector_number="17"
+		artist="Naoki Saito">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.
+		
+At the end of each of your turns, you may untap this creature.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Toel, Vizier of Hope"
+		civilization="Light"
+		type="Creature"
+		race="Initiate"
+		cost="5"
+		power="2000"
+		rarity="U"
+		collector_number="22"
+		artist="Masaki Hirooka">
+		<rules_text>At the end of each of your turns, you may untap all your creatures in the battle zone.</rules_text>
+		<flavor_text>"Vizier of Hope, arise. Your singing voice is a breeze of dawn." -Hanusa, Radiance Elemental</flavor_text>
+	</card>
+
+	<card name="Aqua Soldier"
+		civilization="Water"
+		type="Creature"
+		race="Liquid People"
+		cost="3"
+		power="1000"
+		rarity="U"
+		collector_number="25"
+		artist="Jason">
+		<rules_text>When this creature would be destroyed, return it to your hand instead.</rules_text>
+		<flavor_text>"What a spirit for such a skinny little thing." -Brawler Zyler</flavor_text>
+	</card>
+
+	<card name="Brain Serum"
+		civilization="Water"
+		type="Spell"
+		race=""
+		cost="4"
+		power="0"
+		rarity="U"
+		collector_number="27"
+		artist="Dreamwave">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Draw up to 2 cards.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Faerie Child"
+		civilization="Water"
+		type="Creature"
+		race="Cyber Virus"
+		cost="4"
+		power="2000"
+		rarity="U"
+		collector_number="30"
+		artist="Hisanobu Kometani">
+		<rules_text>This creature can't be blocked.</rules_text>
+		<flavor_text>A school of teeny, tiny points of light. Stopping them all is impossible.</flavor_text>
+	</card>
+
+	<card name="Illusionary Merfolk"
+		civilization="Water"
+		type="Creature"
+		race="Gel Fish"
+		cost="5"
+		power="4000"
+		rarity="U"
+		collector_number="32"
+		artist="Kou1">
+		<rules_text>When you put this creature into the battle zone, if you have a Cyber Lord in the battle zone, draw up to 3 cards.</rules_text>
+		<flavor_text>The Cyber Lords' devotion to beauty is so extreme, they even designed their warrior race to have a pleasant appearance.</flavor_text>
+	</card>
+
+	<card name="King Coral"
+		civilization="Water"
+		type="Creature"
+		race="Leviathan"
+		cost="3"
+		power="1000"
+		rarity="U"
+		collector_number="33"
+		artist="Hideaki Takamura">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)</rules_text>
+		<flavor_text>Leviathans mature slowly, eventually growing to become the largest creatures in the world.</flavor_text>
+	</card>
+
+	<card name="Revolver Fish"
+		civilization="Water"
+		type="Creature"
+		race="Gel Fish"
+		cost="4"
+		power="5000"
+		rarity="U"
+		collector_number="37"
+		artist="Naoki Saito">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Bone Spider"
+		civilization="Darkness"
+		type="Creature"
+		race="Living Dead"
+		cost="3"
+		power="5000"
+		rarity="U"
+		collector_number="48"
+		artist="Dai">
+		<rules_text>When this creature wins a battle, destroy it.</rules_text>
+		<flavor_text>They can wait forever, for they know they will not die alone.</flavor_text>
+	</card>
+
+	<card name="Dark Raven, Shadow of Grief"
+		civilization="Darkness"
+		type="Creature"
+		race="Ghost"
+		cost="4"
+		power="1000"
+		rarity="U"
+		collector_number="51"
+		artist="Norikatsu Miyoshi">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)</rules_text>
+		<flavor_text>If you've ever thought there was something hiding in the dark, you were right.</flavor_text>
+	</card>
+
+	<card name="Dark Reversal"
+		civilization="Darkness"
+		type="Spell"
+		race=""
+		cost="2"
+		power="0"
+		rarity="U"
+		collector_number="52"
+		artist="Nottsuo">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Return a creature from your graveyard to your hand.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Masked Horror, Shadow of Scorn"
+		civilization="Darkness"
+		type="Creature"
+		race="Ghost"
+		cost="5"
+		power="1000"
+		rarity="U"
+		collector_number="58"
+		artist="Gyokan">
+		<rules_text>When you put this creature into the battle zone, your opponent discards a card at random from his hand.</rules_text>
+		<flavor_text>Seeking to live forever, they left their bodies behind.</flavor_text>
+	</card>
+
+	<card name="Stinger Worm"
+		civilization="Darkness"
+		type="Creature"
+		race="Parasite Worm"
+		cost="3"
+		power="5000"
+		rarity="U"
+		collector_number="61"
+		artist="Norikatsu Miyoshi">
+		<rules_text>When you put this creature into the battle zone, destroy 1 of your creatures.</rules_text>
+		<flavor_text>When worms kill a creature, they can still make it move.</flavor_text>
+	</card>
+
+	<card name="Swamp Worm"
+		civilization="Darkness"
+		type="Creature"
+		race="Parasite Worm"
+		cost="7"
+		power="2000"
+		rarity="U"
+		collector_number="62"
+		artist="Youichi Kai">
+		<rules_text>When you put this creature into the battle zone, your opponent chooses 1 of his creatures and destroys it.</rules_text>
+		<flavor_text>Flesh is its food. Bones are its toothpicks.</flavor_text>
+	</card>
+
+	<card name="Armored Walker Urherion"
+		civilization="Fire"
+		type="Creature"
+		race="Armorloid"
+		cost="4"
+		power="3000"
+		rarity="U"
+		collector_number="67"
+		artist="Tsutomu Kawade">
+		<rules_text>While you have at least 1 Humanoid in the battle zone, this creature gets +2000 power during its attacks.</rules_text>
+		<flavor_text>"The world at peace? I'd rather see the world in pieces."</flavor_text>
+	</card>
+
+	<card name="Meteosaur"
+		civilization="Fire"
+		type="Creature"
+		race="Rock Beast"
+		cost="5"
+		power="2000"
+		rarity="U"
+		collector_number="82"
+		artist="Masateru Ikeda">
+		<rules_text>When you put this creature into the battle zone, you may destroy 1 of your opponent's creatures that has power 2000 or less.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Onslaughter Triceps"
+		civilization="Fire"
+		type="Creature"
+		race="Dragonoid"
+		cost="3"
+		power="5000"
+		rarity="U"
+		collector_number="84"
+		artist="Katsuya">
+		<rules_text>When you put this creature into the battle zone, put 1 card from your mana zone into your graveyard.</rules_text>
+		<flavor_text>The first to the front lines are the first to taste victory.</flavor_text>
+	</card>
+
+	<card name="Stonesaur"
+		civilization="Fire"
+		type="Creature"
+		race="Rock Beast"
+		cost="5"
+		power="4000"
+		rarity="U"
+		collector_number="86"
+		artist="Miho Midorikawa">
+		<rules_text>Power attacker +2000 (While attacking, this creature gets +2000 power.)</rules_text>
+		<flavor_text>There is no sanctuary in the Fire Territory. Especially on the featureless, rocky plains.</flavor_text>
+	</card>
+
+	<card name="Super Explosive Volcanodon"
+		civilization="Fire"
+		type="Creature"
+		race="Dragonoid"
+		cost="4"
+		power="2000"
+		rarity="U"
+		collector_number="87"
+		artist="Naoki Saito">
+		<rules_text>Power attacker +4000 (While attacking, this creature gets +4000 power.)</rules_text>
+		<flavor_text>After it attacks, the lucky are left with rubble.</flavor_text>
+	</card>
+
+	<card name="Tornado Flame"
+		civilization="Fire"
+		type="Spell"
+		race=""
+		cost="5"
+		power="0"
+		rarity="U"
+		collector_number="88"
+		artist="Soushi Hirose">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Destroy 1 of your opponent's creatures that has power 4000 or less.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Coiling Vines"
+		civilization="Nature"
+		type="Creature"
+		race="Tree Folk"
+		cost="4"
+		power="3000"
+		rarity="U"
+		collector_number="92"
+		artist="D-Suzuki">
+		<rules_text>When this creature would be destroyed, put it into your mana zone instead.</rules_text>
+		<flavor_text>They eat vegetarians.</flavor_text>
+	</card>
+
+	<card name="Dome Shell"
+		civilization="Nature"
+		type="Creature"
+		race="Colony Beetle"
+		cost="4"
+		power="3000"
+		rarity="U"
+		collector_number="94"
+		artist="Hisashi Momose">
+		<rules_text>Power attacker +2000 (While attacking, this creature gets +2000 power.)</rules_text>
+		<flavor_text>Colony Beetles feed on the World Tree to build gigantic nests on their backs.</flavor_text>
+	</card>
+
+	<card name="Forest Hornet"
+		civilization="Nature"
+		type="Creature"
+		race="Giant Insect"
+		cost="4"
+		power="4000"
+		rarity="U"
+		collector_number="96"
+		artist="Youichi Kai">
+		<rules_text></rules_text>
+		<flavor_text>With its deadly sting and crushing jaws, it makes the Horned Beasts cower.</flavor_text>
+	</card>
+
+	<card name="Pangaea's Song"
+		civilization="Nature"
+		type="Spell"
+		race=""
+		cost="1"
+		power="0"
+		rarity="U"
+		collector_number="100"
+		artist="Seki">
+		<rules_text>Put 1 of your creatures from the battle zone into your mana zone.</rules_text>
+		<flavor_text>"Here's something better for you to do." -Fighter Dual Fang</flavor_text>
+	</card>
+
+	<card name="Poisonous Dahlia"
+		civilization="Nature"
+		type="Creature"
+		race="Tree Folk"
+		cost="4"
+		power="5000"
+		rarity="U"
+		collector_number="101"
+		artist="Hideaki Takamura">
+		<rules_text>This creature can't attack players.</rules_text>
+		<flavor_text>"I will never give you up." -Symbolic meaning of the poisonous dahlia in flower language</flavor_text>
+	</card>
+
+	<card name="Poisonous Mushroom"
+		civilization="Nature"
+		type="Creature"
+		race="Balloon Mushroom"
+		cost="2"
+		power="1000"
+		rarity="U"
+		collector_number="102"
+		artist="Daisuke Izuka">
+		<rules_text>When you put this creature into the battle zone, you may put 1 card from your hand into your mana zone.</rules_text>
+		<flavor_text>You won't find these mushrooms on salads.</flavor_text>
+	</card>
+
+	<card name="Emerald Grass"
+		civilization="Light"
+		type="Creature"
+		race="StarLight Tree"
+		cost="2"
+		power="3000"
+		rarity="C"
+		collector_number="3"
+		artist="Daisuke Izuka">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Iere, Vizier of Bullets"
+		civilization="Light"
+		type="Creature"
+		race="Initiate"
+		cost="3"
+		power="3000"
+		rarity="C"
+		collector_number="7"
+		artist="Akira Hamada">
+		<rules_text></rules_text>
+		<flavor_text>"Vizier of Bullets, arise. Your will is an arrow that never misses the target." -Hanusa, Radiance Elemental</flavor_text>
+	</card>
+
+	<card name="La Ura Giga, Sky Guardian"
+		civilization="Light"
+		type="Creature"
+		race="Guardian"
+		cost="1"
+		power="2000"
+		rarity="C"
+		collector_number="9"
+		artist="Kou1">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.</rules_text>
+		<flavor_text>To protect their floating cities, Guardians are gifted with shining wings.</flavor_text>
+	</card>
+
+	<card name="Miele, Vizier of Lightning"
+		civilization="Light"
+		type="Creature"
+		race="Initiate"
+		cost="3"
+		power="1000"
+		rarity="C"
+		collector_number="13"
+		artist="Dai">
+		<rules_text>When you put this creature into the battle zone, you may choose 1 of your opponent's creatures in the battle zone and tap it.</rules_text>
+		<flavor_text>"Vizier of Lightning, arise. Your eyes are a bow of judgment." -Hanusa, Radiance Elemental</flavor_text>
+	</card>
+
+	<card name="Reusol, the Oracle"
+		civilization="Light"
+		type="Creature"
+		race="Light Bringer"
+		cost="2"
+		power="2000"
+		rarity="C"
+		collector_number="16"
+		artist="Soushi Hirose">
+		<rules_text></rules_text>
+		<flavor_text>Soul and light enmeshed in a web of glory.</flavor_text>
+	</card>
+
+	<card name="Senatine Jade Tree"
+		civilization="Light"
+		type="Creature"
+		race="StarLight Tree"
+		cost="3"
+		power="4000"
+		rarity="C"
+		collector_number="18"
+		artist="Norikatsu Miyoshi">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.</rules_text>
+		<flavor_text>Floating trees in the sky generate beautiful light from poisoned air.</flavor_text>
+	</card>
+
+	<card name="Solar Ray"
+		civilization="Light"
+		type="Spell"
+		race=""
+		cost="2"
+		power="0"
+		rarity="C"
+		collector_number="19"
+		artist="Jason">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Choose 1 of your opponent's creatures in the battle zone and tap it.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Sonic Wing"
+		civilization="Light"
+		type="Spell"
+		race=""
+		cost="3"
+		power="0"
+		rarity="C"
+		collector_number="20"
+		artist="Masaki Hirooka">
+		<rules_text>Choose 1 of your creatures in the battle zone. It can't be blocked this turn.</rules_text>
+		<flavor_text>"Can't catch me!"</flavor_text>
+	</card>
+
+	<card name="Aqua Hulcus"
+		civilization="Water"
+		type="Creature"
+		race="Liquid People"
+		cost="3"
+		power="2000"
+		rarity="C"
+		collector_number="23"
+		artist="Eiji Kaneda">
+		<rules_text>When you put this creature into the battle zone, you may draw a card.</rules_text>
+		<flavor_text>Liquid People freely control liquid. For them, water is armor and shield.</flavor_text>
+	</card>
+
+	<card name="Aqua Vehicle"
+		civilization="Water"
+		type="Creature"
+		race="Liquid People"
+		cost="2"
+		power="1000"
+		rarity="C"
+		collector_number="26"
+		artist="Atsushi Kawasaki">
+		<rules_text> </rules_text>
+		<flavor_text>The chip implanted in its head lets the Cyber Lords control its brain waves.</flavor_text>
+	</card>
+
+	<card name="Candy Drop"
+		civilization="Water"
+		type="Creature"
+		race="Cyber Virus"
+		cost="3"
+		power="1000"
+		rarity="C"
+		collector_number="28"
+		artist="Gyokan">
+		<rules_text>This creature can't be blocked.</rules_text>
+		<flavor_text>No mouth. Big bite.</flavor_text>
+	</card>
+
+	<card name="Hunter Fish"
+		civilization="Water"
+		type="Creature"
+		race="Fish"
+		cost="2"
+		power="3000"
+		rarity="C"
+		collector_number="31"
+		artist="Masateru Ikeda">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.</rules_text>
+		<flavor_text>It lies in wait, hidden in coral reefs, lashing out ferociously when it senses prey.</flavor_text>
+	</card>
+
+	<card name="Marine Flower"
+		civilization="Water"
+		type="Creature"
+		race="Cyber Virus"
+		cost="1"
+		power="2000"
+		rarity="C"
+		collector_number="35"
+		artist="Hikaru Ikusa">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.</rules_text>
+		<flavor_text>It blooms in the ocean depths, far from any light.</flavor_text>
+	</card>
+
+	<card name="Phantom Fish"
+		civilization="Water"
+		type="Creature"
+		race="Gel Fish"
+		cost="3"
+		power="4000"
+		rarity="C"
+		collector_number="36"
+		artist="Ittoku">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Spiral Gate"
+		civilization="Water"
+		type="Spell"
+		race=""
+		cost="2"
+		power="0"
+		rarity="C"
+		collector_number="40"
+		artist="Tomofumi Ogasawara">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Choose 1 creature in the battle zone and return it to its owner's hand.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Virtual Tripwire"
+		civilization="Water"
+		type="Spell"
+		race=""
+		cost="3"
+		power="0"
+		rarity="C"
+		collector_number="44"
+		artist="Akifumi Yamamoto">
+		<rules_text>Choose 1 of your opponent's creatures in the battle zone and tap it.</rules_text>
+		<flavor_text>It will stay until it dies.</flavor_text>
+	</card>
+
+	<card name="Black Feather, Shadow of Rage"
+		civilization="Darkness"
+		type="Creature"
+		race="Ghost"
+		cost="1"
+		power="3000"
+		rarity="C"
+		collector_number="45"
+		artist="Soushi Hirose">
+		<rules_text>When you put this creature into the battle zone, destroy 1 of your creatures.</rules_text>
+		<flavor_text> </flavor_text>
+	</card>
+
+	<card name="Bloody Squito"
+		civilization="Darkness"
+		type="Creature"
+		race="Brain Jacker"
+		cost="2"
+		power="4000"
+		rarity="C"
+		collector_number="46"
+		artist="Atsushi Kawasaki">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.
+		
+When this creature wins a battle, destroy it.</rules_text>
+		<flavor_text> </flavor_text>
+	</card>
+
+	<card name="Bone Assassin, the Ripper"
+		civilization="Darkness"
+		type="Creature"
+		race="Living Dead"
+		cost="4"
+		power="2000"
+		rarity="C"
+		collector_number="47"
+		artist="Nottsuo">
+		<rules_text>Slayer (When this creature loses a battle, destroy the other creature.)</rules_text>
+		<flavor_text>Commanders send them to the front line. It's too dangerous to have them close.</flavor_text>
+	</card>
+
+	<card name="Death Smoke"
+		civilization="Darkness"
+		type="Spell"
+		race=""
+		cost="4"
+		power="0"
+		rarity="C"
+		collector_number="53"
+		artist="Dustmoss">
+		<rules_text>Destroy 1 of your opponent's untapped creatures.</rules_text>
+		<flavor_text>Savor the taste of fear!</flavor_text>
+	</card>
+
+	<card name="Ghost Touch"
+		civilization="Darkness"
+		type="Spell"
+		race=""
+		cost="2"
+		power="0"
+		rarity="C"
+		collector_number="54"
+		artist="Soushi Hirose">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Your opponent discards a card at random from his hand.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Skeleton Soldier, the Defiled"
+		civilization="Darkness"
+		type="Creature"
+		race="Living Dead"
+		cost="4"
+		power="3000"
+		rarity="C"
+		collector_number="60"
+		artist="Katsuya">
+		<rules_text></rules_text>
+		<flavor_text>"Rip. Tear. Gnash. They all make the same delightful noises."</flavor_text>
+	</card>
+
+	<card name="Wandering Braineater"
+		civilization="Darkness"
+		type="Creature"
+		race="Living Dead"
+		cost="2"
+		power="2000"
+		rarity="C"
+		collector_number="65"
+		artist="Youichi Kai">
+		<rules_text>[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.</rules_text>
+		<flavor_text>Devouring nice, fresh brains is all they know . . . and all they care about.</flavor_text>
+	</card>
+
+	<card name="Writhing Bone Ghoul"
+		civilization="Darkness"
+		type="Creature"
+		race="Living Dead"
+		cost="2"
+		power="2000"
+		rarity="C"
+		collector_number="66"
+		artist="Eiji Kaneda">
+		<rules_text></rules_text>
+		<flavor_text>Seeking power, they gave up their intelligence. What they found was pain.</flavor_text>
+	</card>
+
+	<card name="Artisan Picora"
+		civilization="Fire"
+		type="Creature"
+		race="Machine Eater"
+		cost="1"
+		power="2000"
+		rarity="C"
+		collector_number="68"
+		artist="Akifumi Yamamoto">
+		<rules_text>When you put this creature into the battle zone, put 1 card from your mana zone into your graveyard.</rules_text>
+		<flavor_text>"Fix it? That's easy. Just hit it." -Legendary Artisan Picora</flavor_text>
+	</card>
+
+	<card name="Brawler Zyler"
+		civilization="Fire"
+		type="Creature"
+		race="Humanoid"
+		cost="2"
+		power="1000"
+		rarity="C"
+		collector_number="70"
+		artist="Tsutomu Kawade">
+		<rules_text>Power attacker +2000 (While attacking, this creature gets +2000 power.)</rules_text>
+		<flavor_text>"I wouldn't, if I were you. You don't want to get hurt."</flavor_text>
+	</card>
+
+	<card name="Burning Power"
+		civilization="Fire"
+		type="Spell"
+		race=""
+		cost="1"
+		power="0"
+		rarity="C"
+		collector_number="71"
+		artist="Miho Midorikawa">
+		<rules_text>One of your creatures gets "power attacker +2000" until the end of the turn. (While attacking, a creature that has "power attacker +2000" gets +2000 power.)</rules_text>
+		<flavor_text>Witness the power of whirling fire!</flavor_text>
+	</card>
+
+	<card name="Crimson Hammer"
+		civilization="Fire"
+		type="Spell"
+		race=""
+		cost="2"
+		power="0"
+		rarity="C"
+		collector_number="73"
+		artist="Daisuke Izuka">
+		<rules_text>Destroy 1 of your opponent's creatures that has power 2000 or less.</rules_text>
+		<flavor_text>There's nothing a Machine Eater enjoys more than a good game of Whack-a-Hulcus.</flavor_text>
+	</card>
+
+	<card name="Deadly Fighter Braid Claw"
+		civilization="Fire"
+		type="Creature"
+		race="Dragonoid"
+		cost="1"
+		power="1000"
+		rarity="C"
+		collector_number="74"
+		artist="Yusaku Nakaaki">
+		<rules_text>This creature attacks each turn if able.</rules_text>
+		<flavor_text>A Dragonoid's true home is the battlefield.</flavor_text>
+	</card>
+
+	<card name="Fatal Attacker Horvath"
+		civilization="Fire"
+		type="Creature"
+		race="Humanoid"
+		cost="3"
+		power="2000"
+		rarity="C"
+		collector_number="77"
+		artist="Dai">
+		<rules_text>While you have at least 1 Armorloid in the battle zone, this creature gets +2000 power during its attacks.</rules_text>
+		<flavor_text>"Any final words?"</flavor_text>
+	</card>
+
+	<card name="Fire Sweeper Burning Hellion"
+		civilization="Fire"
+		type="Creature"
+		race="Dragonoid"
+		cost="4"
+		power="3000"
+		rarity="C"
+		collector_number="78"
+		artist="Sansyu">
+		<rules_text>Power attacker +2000 (While attacking, this creature gets +2000 power.)</rules_text>
+		<flavor_text>Those who leave battle last are the ones who savor victory the longest.</flavor_text>
+	</card>
+
+	<card name="Immortal Baron, Vorg"
+		civilization="Fire"
+		type="Creature"
+		race="Humanoid"
+		cost="2"
+		power="2000"
+		rarity="C"
+		collector_number="80"
+		artist="Dustmoss">
+		<rules_text></rules_text>
+		<flavor_text>"You see? The one who wins is the one who has the bigger weapon."</flavor_text>
+	</card>
+
+	<card name="Bronze-Arm Tribe"
+		civilization="Nature"
+		type="Creature"
+		race="Beast Folk"
+		cost="3"
+		power="1000"
+		rarity="C"
+		collector_number="90"
+		artist="Yusaku Nakaaki">
+		<rules_text>When you put this creature into the battle zone, put the top card of your deck into your mana zone.</rules_text>
+		<flavor_text>They're bringing some friends to the party.</flavor_text>
+	</card>
+
+	<card name="Burning Mane"
+		civilization="Nature"
+		type="Creature"
+		race="Beast Folk"
+		cost="2"
+		power="2000"
+		rarity="C"
+		collector_number="91"
+		artist="Sansyu">
+		<rules_text></rules_text>
+		<flavor_text>It pulled a young tree up by the roots, swinging it over its head as though it were a twig.</flavor_text>
+	</card>
+
+	<card name="Dimension Gate"
+		civilization="Nature"
+		type="Spell"
+		race=""
+		cost="3"
+		power="0"
+		rarity="C"
+		collector_number="93"
+		artist="Jason">
+		<rules_text>[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.</rules_text>
+		<flavor_text></flavor_text>
+	</card>
+
+	<card name="Fear Fang"
+		civilization="Nature"
+		type="Creature"
+		race="Beast Folk"
+		cost="3"
+		power="3000"
+		rarity="C"
+		collector_number="95"
+		artist="Norikatsu Miyoshi">
+		<rules_text></rules_text>
+		<flavor_text>The Beast Folk are gifted with huge muscles to withstand the tremendous gravity of the World Tree.</flavor_text>
+	</card>
+
+	<card name="Golden Wing Striker"
+		civilization="Nature"
+		type="Creature"
+		race="Beast Folk"
+		cost="3"
+		power="2000"
+		rarity="C"
+		collector_number="97"
+		artist="Miho Midorikawa">
+		<rules_text>Power attacker +2000 (While attacking, this creature gets +2000 power.)</rules_text>
+		<flavor_text>Hawk warriors hunt faster than the wind.</flavor_text>
+	</card>
+
+	<card name="Mighty Shouter"
+		civilization="Nature"
+		type="Creature"
+		race="Beast Folk"
+		cost="3"
+		power="2000"
+		rarity="C"
+		collector_number="98"
+		artist="Dustmoss">
+		<rules_text>When this creature would be destroyed, put it into your mana zone instead.</rules_text>
+		<flavor_text>"I am not pink!"</flavor_text>
+	</card>
+
+	<card name="Steel Smasher"
+		civilization="Nature"
+		type="Creature"
+		race="Beast Folk"
+		cost="2"
+		power="3000"
+		rarity="C"
+		collector_number="105"
+		artist="Katsuya">
+		<rules_text>This creature can't attack players.</rules_text>
+		<flavor_text>"Me big. Me tough. Me smash." -Iron Hammer, Boar Warrior</flavor_text>
+	</card>
+
+	<card name="Ultimate Force"
+		civilization="Nature"
+		type="Spell"
+		race=""
+		cost="5"
+		power="0"
+		rarity="C"
+		collector_number="110"
+		artist="Sansyu">
+		<rules_text>Put the top 2 cards of your deck into your mana zone.</rules_text>
+		<flavor_text>"Great Earth, give me your might!" -Fighter Dual Fang</flavor_text>
+	</card>
+
+</cardset>
