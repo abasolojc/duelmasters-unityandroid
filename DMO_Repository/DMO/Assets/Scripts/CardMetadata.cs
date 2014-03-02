@@ -51,6 +51,8 @@ public class CardMetadata
 	public string artist;
 	public string flavor_text;
 	public string rules_text;
+	public List<Set> sets;
+	public int setIndex;
 	
 	public CardMetadata (
 		string name,
@@ -63,7 +65,8 @@ public class CardMetadata
 		string collector_number,
 		string artist,
 		string flavor_text,
-		string rules_text
+		string rules_text,
+		Set origSet
 		)
 	{
 		this.name = name;
@@ -77,9 +80,12 @@ public class CardMetadata
 		this.artist = artist;
 		this.flavor_text = flavor_text;
 		this.rules_text = rules_text;
+		this.sets = new List<Set> ();
+		this.sets.Add (origSet);
+		setIndex = 0;
 	}
 	
-	public CardMetadata (XmlNode cardNode)
+	public CardMetadata (XmlNode cardNode, Set origSet)
 	{
 		this.name = cardNode.Attributes ["name"].Value;
 		List<string> civilization = new List<string> ();
@@ -109,5 +115,25 @@ public class CardMetadata
 		}
 		this.flavor_text = flavor_text;
 		this.rules_text = rules_text;
+		this.sets = new List<Set> ();
+		sets.Add (origSet);
+		setIndex = 0;
+	}
+
+	public void AddSet (Set newSet)
+	{
+		sets.Add (newSet);
+	}
+}
+
+public struct Set
+{
+	public string name;
+	public string xmlFileName;
+	
+	public Set (string name, string xmlFileName)
+	{
+		this.name = name;
+		this.xmlFileName = xmlFileName;
 	}
 }
