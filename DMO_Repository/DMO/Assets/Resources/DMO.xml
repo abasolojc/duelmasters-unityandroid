@@ -3,4 +3,18 @@
 	<sets>
 		<set>DM-1 Base Set</set>
 	</sets>
+	<decks>
+		<deck id="0" name="Sample Deck">
+			<deckcard>DM-1_S3</deckcard>
+			<deckcard>DM-1_S3</deckcard>
+			<deckcard>DM-1_S7</deckcard>
+			<deckcard>DM-1_S7</deckcard>
+			<deckcard>DM-1_S7</deckcard>
+			<deckcard>DM-1_S9</deckcard>
+			<deckcard>DM-1_S5</deckcard>
+			<deckcard>DM-1_S5</deckcard>
+			<deckcard>DM-1_S5</deckcard>
+			<deckcard>DM-1_S5</deckcard>
+		</deck>
+	</decks>
 </DMO>

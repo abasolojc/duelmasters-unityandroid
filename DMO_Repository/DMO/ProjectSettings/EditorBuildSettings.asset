@@ -21,3 +21,5 @@ EditorBuildSettings:
     path: Assets/ThirdParty/Photon Unity Networking/Demos/MarcoPolo-Tutorial/MarcoPolo-Scene.unity
   - enabled: 1
     path: Assets/Scenes/LoadingManager.unity
+  - enabled: 1
+    path: Assets/Scenes/_test.unity

@@ -1,0 +1,2097 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Base Set
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f514313262e3d141ad017b60809752a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 8b5ecef8fda806b448318917763e61ec, type: 2}
+  items:
+  - name: Aqua Hulcus
+    region:
+      serializedVersion: 2
+      x: .4921875
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Aqua Knight
+    region:
+      serializedVersion: 2
+      x: .4921875
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Aqua Sniper
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .0197753906
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Aqua Soldier
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .0952148438
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Aqua Vehicle
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .170654297
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Armored Walker urherion
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .24609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Artisan Picora
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .321533203
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Astrocomet Dragon
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .396972656
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Aura Blast
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .472412109
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Black Feather, Shadow of Rage
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .547851562
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Bloody Squito
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .623291016
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Bolshack Dragon
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .698730469
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Bone Assassin, the Ripper
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Bone Spider
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Brain Serum
+    region:
+      serializedVersion: 2
+      x: .4375
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Brawler Zyler
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .0197753906
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Bronze-Arm Tribe
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .0952148438
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Burning Mane
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .170654297
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Burning Power
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .24609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Candy Drop
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .321533203
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Chaos Strike
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .396972656
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Chilias, the Oracle
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .472412109
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Coiling Vines
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .547851562
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Creeping Plague
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .623291016
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Crimson Hammer
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .698730469
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Crystal Memory
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Dark Clown
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Dark Raven, Shadow of Grief
+    region:
+      serializedVersion: 2
+      x: .3828125
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Dark Reversal
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .0197753906
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Deadly Fighter Braid Claw
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .0952148438
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Death Smoke
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .170654297
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Deathblade Beetle
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .24609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Deathliger, Lion of Chaos
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .321533203
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Dia Nork, Moonlight Guardian
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .396972656
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Dimension Gate
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .472412109
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Dome Shell
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .547851562
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Draglide
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .623291016
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Emerald Grass
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .698730469
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Explosive Fighter Ucarn
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Faerie Child
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Fatal Attacker Horvath
+    region:
+      serializedVersion: 2
+      x: .328125
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Fear Fang
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .0197753906
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Fire Sweeper Burning Hellion
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .0952148438
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Forest Hornet
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .170654297
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Frei, Vizier of Air
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .24609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Gatling Skyterror
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .321533203
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Ghost Touch
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .396972656
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Gigaberos
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .472412109
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Gigagiele
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .547851562
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Gigargon
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .623291016
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Golden Wing Striker
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .698730469
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Gran Gure, Space Guardian
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Hanusa, Radiance Elemental
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Holy Awe
+    region:
+      serializedVersion: 2
+      x: .2734375
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Hunter Fish
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .0197753906
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Iere, Vizier of Bullets
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .0952148438
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Illusionary Merfolk
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .170654297
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Immortal Baron, Vorg
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .24609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Iocant, the Oracle
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .321533203
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: King Coral
+    region:
+      serializedVersion: 2
+      x: .4921875
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: King Depthcon
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .472412109
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: King Ripped-Hide
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .547851562
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: La Ura Giga, Sky Guardian
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .623291016
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Lah, Purification Enforcer
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .698730469
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Laser Wing
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Lok, Vizier of Hunting
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Magma Gazer
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Marine Flower
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .0197753906
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Masked Horror, Shadow of Scorn
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .0952148438
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Meteosaur
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .170654297
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Miele, Vizier of Lightning
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .24609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Mighty Shouter
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .321533203
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Moonlight Flash
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .396972656
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Natural Snare
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .472412109
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Night Master, Shadow of Decay
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .547851562
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Nomad Hero Gigio
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .623291016
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Onslaughter Triceps
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .698730469
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Pangaea's Song
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Phantom Fish
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Poisonous Dahlia
+    region:
+      serializedVersion: 2
+      x: .1640625
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Poisonous Mushroom
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .0197753906
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Rayla, Truth Enforcer
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .0952148438
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Red-Eye Scorpion
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .170654297
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Reusol, the oracle
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .24609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Revolver Fish
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .321533203
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Roaring Great-Horn
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .396972656
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Rothus, The Traveler
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .472412109
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Ruby Grass
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .547851562
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Saucer-Head Shark
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .623291016
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Scarlet Skyterror
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .698730469
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Seamine
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Senatine Jade Tree
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Skeleton Soldier, the Defiled
+    region:
+      serializedVersion: 2
+      x: .109375
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Solar Ray
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .0197753906
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Sonic Wing
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .0952148438
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Spiral Gate
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .170654297
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Stampeding Longhorn
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .24609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Steel Smasher
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .321533203
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Stinger Worm
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .396972656
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Stonesaur
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .472412109
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Storm Shell
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .547851562
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Super Explosive Volcanodon
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .623291016
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Swamp Worm
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .698730469
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Szubs Kin, Twilight Guardian
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Teleportation
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Terror Pit
+    region:
+      serializedVersion: 2
+      x: .0546875
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Thorny Mandra
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .0197753906
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Toel, Vizier of Hope
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .0952148438
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Tornado Flame
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .170654297
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Tower Shell
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .24609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Tri-Horn Shepherd
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .321533203
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Tropico
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .396972656
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Ultimate Force
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .472412109
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Unicorn Fish
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .547851562
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Urth, Purifying Elemental
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .623291016
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Vampire Silphy
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .698730469
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Virtual Tripwire
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .774169922
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Wandering Braineater
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .849609375
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Writhing Bone Ghoul
+    region:
+      serializedVersion: 2
+      x: 0
+      y: .925048828
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  - name: Zagaan, Knight of Darkness
+    region:
+      serializedVersion: 2
+      x: .21875
+      y: .396972656
+      width: .0541992188
+      height: .0749511719
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 222, y: 307}
+    textureGUID: 
+    deleted: 0
+    texture: {fileID: 0}
+  generator: 1
+  imageFileGUID: 8fc45f455b2f63f4f9c104618624e6b1
+  dataFileGUID: 37c3382117a28be4494595a81e24dbec
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

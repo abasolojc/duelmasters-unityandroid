@@ -1,0 +1,727 @@
+{"frames": {
+	"Aqua Hulcus.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":2016,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Aqua Knight.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":2016,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Aqua Sniper.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":3708,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Aqua Soldier.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":3399,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Aqua Vehicle.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":3090,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Armored Walker urherion.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":2781,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Artisan Picora.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":2472,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Astrocomet Dragon.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":2163,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Aura Blast.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":1854,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Black Feather, Shadow of Rage.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":1545,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Bloody Squito.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":1236,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Bolshack Dragon.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":927,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Bone Assassin, the Ripper.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Bone Spider.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Brain Serum.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1792,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Brawler Zyler.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":3708,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Bronze-Arm Tribe.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":3399,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Burning Mane.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":3090,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Burning Power.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":2781,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Candy Drop.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":2472,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Chaos Strike.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":2163,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Chilias, the Oracle.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":1854,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Coiling Vines.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":1545,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Creeping Plague.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":1236,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Crimson Hammer.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":927,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Crystal Memory.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Dark Clown.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Dark Raven, Shadow of Grief.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1568,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Dark Reversal.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":3708,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Deadly Fighter Braid Claw.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":3399,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Death Smoke.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":3090,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Deathblade Beetle.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":2781,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Deathliger, Lion of Chaos.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":2472,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Dia Nork, Moonlight Guardian.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":2163,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Dimension Gate.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":1854,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Dome Shell.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":1545,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Draglide.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":1236,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Emerald Grass.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":927,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Explosive Fighter Ucarn.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Faerie Child.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Fatal Attacker Horvath.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1344,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Fear Fang.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":3708,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Fire Sweeper Burning Hellion.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":3399,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Forest Hornet.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":3090,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Frei, Vizier of Air.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":2781,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Gatling Skyterror.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":2472,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Ghost Touch.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":2163,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Gigaberos.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":1854,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Gigagiele.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":1545,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Gigargon.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":1236,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Golden Wing Striker.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":927,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Gran Gure, Space Guardian.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Hanusa, Radiance Elemental.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Holy Awe.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1120,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Hunter Fish.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":3708,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Iere, Vizier of Bullets.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":3399,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Illusionary Merfolk.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":3090,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Immortal Baron, Vorg.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":2781,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Iocant, the Oracle.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":2472,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"King Coral.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":2016,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"King Depthcon.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":1854,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"King Ripped-Hide.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":1545,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"La Ura Giga, Sky Guardian.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":1236,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Lah, Purification Enforcer.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":927,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Laser Wing.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Lok, Vizier of Hunting.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Magma Gazer.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Marine Flower.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":3708,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Masked Horror, Shadow of Scorn.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":3399,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Meteosaur.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":3090,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Miele, Vizier of Lightning.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":2781,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Mighty Shouter.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":2472,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Moonlight Flash.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":2163,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Natural Snare.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":1854,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Night Master, Shadow of Decay.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":1545,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Nomad Hero Gigio.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":1236,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Onslaughter Triceps.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":927,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Pangaea's Song.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Phantom Fish.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Poisonous Dahlia.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":672,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Poisonous Mushroom.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":3708,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Rayla, Truth Enforcer.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":3399,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Red-Eye Scorpion.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":3090,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Reusol, the oracle.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":2781,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Revolver Fish.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":2472,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Roaring Great-Horn.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":2163,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Rothus, The Traveler.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":1854,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Ruby Grass.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":1545,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Saucer-Head Shark.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":1236,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Scarlet Skyterror.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":927,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Seamine.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Senatine Jade Tree.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Skeleton Soldier, the Defiled.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":448,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Solar Ray.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":3708,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Sonic Wing.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":3399,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Spiral Gate.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":3090,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Stampeding Longhorn.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":2781,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Steel Smasher.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":2472,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Stinger Worm.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":2163,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Stonesaur.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":1854,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Storm Shell.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":1545,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Super Explosive Volcanodon.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":1236,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Swamp Worm.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":927,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Szubs Kin, Twilight Guardian.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Teleportation.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Terror Pit.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":224,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Thorny Mandra.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":3708,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Toel, Vizier of Hope.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":3399,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Tornado Flame.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":3090,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Tower Shell.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":2781,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Tri-Horn Shepherd.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":2472,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Tropico.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":2163,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Ultimate Force.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":1854,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Unicorn Fish.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":1545,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Urth, Purifying Elemental.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":1236,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Vampire Silphy.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":927,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Virtual Tripwire.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":618,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Wandering Braineater.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":309,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Writhing Bone Ghoul.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+	"Zagaan, Knight of Darkness.jpg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":896,"y":2163,"w":222,"h":307},
+		"spriteSourceSize": {"x":0,"y":0,"w":222,"h":307},
+		"sourceSize": {"w":222,"h":307}
+	},
+}
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":4096,"h":4096}
+}
+}

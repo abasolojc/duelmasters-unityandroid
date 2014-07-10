@@ -12,6 +12,7 @@ public class LoadingManager : MonoBehaviour
 		DMO.cardDictionary = new Dictionary<string, CardMetadata> ();
 		LoadAllSets ();
 		Debug.Log ("Card count: " + DMO.cardDictionary.Values.Count.ToString ());
+		Application.LoadLevel ("_test");
 	}
 	
 	// Update is called once per frame
